@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199018248659",
+    "project_id": "medivault-72b15",
+    "storage_bucket": "medivault-72b15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199018248659:android:402b3772ca931de50fd726",
+        "android_client_info": {
+          "package_name": "com.medivault.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199018248659-2na9j6bt8gqbhcs0la4vk1i8flf58n3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medivault.app",
+            "certificate_hash": "cbda867066bc6c0a656f3b206fe81a864c4110cb"
+          }
+        },
+        {
+          "client_id": "199018248659-731ht5gc9cbcpc7q4p2906tskh5fbtk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVTpN8vz_6fg8fzR2X6B7oygtM3NHW9Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199018248659-731ht5gc9cbcpc7q4p2906tskh5fbtk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

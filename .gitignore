@@ -1,0 +1,10 @@
+node_modules/
+backend/node_modules/
+backend/uploads/
+backend/.env
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/build/
+android/build/
+*.iml
