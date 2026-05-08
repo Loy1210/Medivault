@@ -18,7 +18,7 @@ android {
         versionCode = 1
         versionName = "1.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
-        val apiBaseUrl = providers.gradleProperty("API_BASE_URL").orElse("http://10.0.2.2:5000/").get()
+        val apiBaseUrl = providers.gradleProperty("API_BASE_URL").orElse("https://medivault-ustd.onrender.com/").get()
         val googleWebClientId = providers.gradleProperty("GOOGLE_WEB_CLIENT_ID").orElse("").get()
         buildConfigField("String", "API_BASE_URL", "\"$apiBaseUrl\"")
         buildConfigField("String", "GOOGLE_WEB_CLIENT_ID", "\"$googleWebClientId\"")
